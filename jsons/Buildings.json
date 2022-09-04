@@ -1,0 +1,18 @@
+[
+   {
+        "name": "Street Food",
+        "replaces": "Market",
+        "uniqueTo": "Pakistan",
+        "gold": 2,
+        "cost": 150,
+        "hurryCostModifier": 40,
+        "specialistSlot": {"Merchant": 1},
+        "percentStatBonus": {"gold": 25},
+        "requiredTech": "Currency",
+        "uniques": [
+          "[+1 Food, +1 Science] from [Farm] tiles [in this city]",
+          "[+2 Gold] from [Luxury resource] tiles [in this city]"
+        ]
+   }
+]
+

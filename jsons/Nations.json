@@ -1,0 +1,86 @@
+[
+   {
+      "name": "Pakistan",
+      "leaderName": "Jinnah Muhammad Ali",
+      "adjective": ["Pakistani"],
+      "startBias": ["Hill", "Plains"],
+      "preferredVictoryType": "Scientific",
+      "favoredReligion": "Islam",
+
+      "startIntroPart1": "Oh, Great Leader of Pakistan, take a look at the country you forged! Muhammad Ali Jinnah, you are the Father of the Nation! You realized that Indian Muslism should have their own state. You succeeded in a matter of years. You stood up for the political rights of Muslims in India and therefore you have a deep and respected legacy. You remain the greatest leader of Pakistan. Although your country continues to face challenging problems, it has improved in various ways. Pakistan's agriculture is incredible: about one fourth of Pakistan's total land area is under cultivation and is watered by one of the largest irrigation systems in the world. Science and technology are linked to Pakistan's national ideology and serves as an important part of national politics. Pakistan's Golden Age of Science is well remembered, although it currently experiences a brain drain.",
+      "startIntroPart2": "That's exactly why your people need you again, Great Leader! Rise and make sure Pakistan's science and technology gain a formidable international reputation! Can you build a great nation? Can you lead your people to world-changing scientific discoveries? Can you build a civilization to stand the test of time?",
+
+      "declaringWar": "I won't tolerate you anymore! It's time to teach you a hard lesson.",
+      "attacked": "It was your biggest mistake and you will soon regret it.",
+      "defeated": "We did everything we could, but still lost.. Well, so be it, nothing lasts forever. One day you too will know the bitter taste of defeat.",
+      "introduction": "Greetings from Jinnah Muhammad Ali, the first Governor General of Pakistan. I hope you come in peace and this is the start of a beautiful friendship.",
+
+      "tradeRequest": "The validity of our offer is limited, I advise you to think quickly.",
+
+      "neutralHello": "Greetings.",
+      "neutralLetsHearIt": "Let's discuss.",
+      "neutralNo": "No.",
+      "neutralYes": "Excellent!",
+
+      "hateHello": "Ah, it's you... You are not welcome here.",
+      "hateLetsHearIt": "Don't waste my time, go on!",
+      "hateNo": "Never!",
+      "hateYes": "Well, it would be wise to agree.",
+
+      "outerColor": [0, 60, 26],
+      "innerColor": [250, 250, 250],
+
+      "uniqueName": "Advancement and Civilization",
+      "uniques": [
+         "Double quantity of [Spices] produced",
+         "Double quantity of [Cotton] produced",
+         "Double quantity of [Silk] produced",
+         "Double quantity of [Sugar] produced",
+         "Receive free [Great Engineer] when you discover [Architecture]",
+         "Science gained from research agreements [+12]%"
+      ], 
+
+      "cities": [
+         "Islamabad",
+         "Karachi",
+         "Lahore",
+         "Faisalabad",
+         "Ravalpindi",
+         "Multan",
+         "Gujranwala",
+         "Hyderabad",
+         "Peshawar",
+         "Quetta",
+         "Sargodha",
+         "Sailkot",
+         "Bahawalpur",
+         "Sukkur",
+         "Jang",
+         "Shekhupura",
+         "Mardan",
+         "Gujrat",
+         "Larkana",
+         "Kasur"
+      ],
+
+      "spyNames": [
+          "Aqsaa",
+          "Arham",
+          "Durab",
+          "Chawish",
+          "Dayyaan",
+          "Gulnar",
+          "Buraid",
+          "Bahisa",
+          "Effat",
+          "Fahmi",
+          "Badeea",
+          "Azban",
+          "Khaan",
+          "Muzhir",
+          "Liyana",
+          "Cheragh",
+          "Hazeem"
+       ]
+   }
+]
