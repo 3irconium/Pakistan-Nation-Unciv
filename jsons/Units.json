@@ -4,7 +4,8 @@
 		"unitType": "Gunpowder",
 		"uniqueTo": "Pakistan",
 		"replaces": "Infantry",
-		"movement": 2,
+		"movement": 3,
+		"range": 2,
 		"strength": 70,
 		"cost": 375,
 		"requiredTech": "Plastics",
@@ -12,8 +13,7 @@
 		"obsoleteTech": "Mobile Tactics",
 		"attackSound": "shot",
 		"uniques": [
-		  "[+1] Sight",
-		  "[+1] Range"
+		  "[+1] Sight"
 		]
 	}
 ]
