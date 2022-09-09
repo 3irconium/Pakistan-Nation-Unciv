@@ -1,11 +1,11 @@
 [
   {
 		"name": "Ranger",
-		"unitType": "Gunpowder",
+		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Pakistan",
 		"replaces": "Infantry",
-		"movement": 3,
-		"range": 2,
+		"movement": 2,
+		"range": 4,
 		"strength": 70,
 		"cost": 375,
 		"requiredTech": "Plastics",
@@ -13,7 +13,7 @@
 		"obsoleteTech": "Mobile Tactics",
 		"attackSound": "shot",
 		"uniques": [
-		  "[+1] Sight"
+		  "[+2] Sight"
 		]
 	}
 ]
